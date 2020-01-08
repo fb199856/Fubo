@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fu Bo's website.Thank you github!
 
 You can use the [editor on GitHub](https://github.com/fb199856/Fubo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
